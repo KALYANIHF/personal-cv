@@ -82,6 +82,6 @@ In addition to my tech interests, I enjoy capturing moments through photography 
 
 ## Languages
 
-English (advanced [c21])
-Hindi (Bilingual or Proficient)
-Bengali (Bilingual or Proficient)
+- English (advanced [c21])
+- Hindi (Bilingual or Proficient)
+- Bengali (Bilingual or Proficient)
