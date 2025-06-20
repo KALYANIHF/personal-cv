@@ -18,6 +18,8 @@ email: souvikofficial21@gmail.com/marvel.sm.24@gmail.com
   - [Core language Lib]: NodeJS,ReactJS,Bunjs, vanilla Javascript.
   - [Web frameworks]: ExpressJs, Fastify
   - [Baas]: Appwrite,firebase.
+  - [Module Bundler]: webpack,
+  - [Test library]: Jest,
   - [Database]: Relational: Mysql / non-relational: mongodb
   - [ODM's]: mongoose.
   - [working API's]: klaviyo API, Sticky CRM api, Konnective API, HubSpot API,TMDB(movie api) and many more.
