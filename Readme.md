@@ -10,11 +10,17 @@ githublogo: github.com/ashishps1
 linkdinlog: linkedin.com/in/ashishps1
 email: souvikofficial21@gmail.com/marvel.sm.24@gmail.com
 
-## Personal Summery:
+## Skills
 
-I am passionate about technology, with a focus on Linux, frontend, backend development, and JavaScript. I am eager to expand my knowledge in DevOps and learn from industry experts. My goal is to make a positive contribution to solving real-world problems alongside professionals in the field.
-
-In addition to my tech interests, I enjoy capturing moments through photography and exploring mountain landscapes on my bike. My Pexels profile has received over 317k views and 11k downloads, reflecting my dedication to creativity. Photography and biking is like my essential side Oxygen; it brings me joy and inspiration. You can view my profile at: https://www.pexels.com/@souvik-mondal-2955175/.
+- Languages: Javascript,PHP,TypeScript,SQL,HCL
+- Technologies & Tools:
+  - [DevOps]: Docker, Git, Vim, Neovim, Kubernetes, Agile,CI/CD with jenkins, Terraform
+  - [Core language Lib]: NodeJS,ReactJS,Bunjs, vanilla Javascript.
+  - [Web frameworks]: ExpressJs, Fastify
+  - [Baas]: Appwrite,firebase.
+  - [Database]: Relational: Mysql / non-relational: mongodb
+  - [ODM's]: mongoose.
+  - [working API's]: klaviyo API, Sticky CRM api, Konnective API, HubSpot API,TMDB(movie api) and many more.
 
 ## Work History:
 
@@ -49,18 +55,6 @@ Relevant CourseWrok: Object Oriented Programming, Databases, Discrete Maths, Ope
 ## website and Protfolio
 
 https://souvikofficial.netlify.app/
-
-## Skills
-
-- Languages: Javascript,PHP,TypeScript,SQL,HCL
-- Technologies & Tools:
-  - [DevOps]: Docker, Git, Vim, Neovim, Kubernetes, Agile,CI/CD with jenkins, Terraform
-  - [Core language Lib]: NodeJS,ReactJS,Bunjs, vanilla Javascript.
-  - [Web frameworks]: ExpressJs, Fastify
-  - [Baas]: Appwrite,firebase.
-  - [Database]: Relational: Mysql / non-relational: mongodb
-  - [ODM's]: mongoose.
-  - [working API's]: klaviyo API, Sticky CRM api, Konnective API, HubSpot API,TMDB(movie api) and many more.
 
 ## Certifications
 
